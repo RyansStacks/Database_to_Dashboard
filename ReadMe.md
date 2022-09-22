@@ -1,0 +1,1 @@
+This project relies on the idea of creating a database for a mock laboratory and then providing business insights for such a mock laboratory enterprise by pulling data from the database with specific SQL queries.
